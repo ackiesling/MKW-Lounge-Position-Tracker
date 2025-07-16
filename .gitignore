@@ -1,0 +1,5 @@
+#ignore personal data
+position_data.txt
+
+#ignore vscode
+.vscode/
