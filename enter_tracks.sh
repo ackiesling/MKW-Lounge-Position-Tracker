@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Compile the program
-g++ -I. placement_store.cpp -o mario_kart_tracker
+g++ -I. src/placement_store.cpp -o mario_kart_tracker
 
 # Check if compilation succeeded
 if [ $? -eq 0 ]; then

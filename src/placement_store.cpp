@@ -5,7 +5,7 @@
 #include <algorithm>
 #include "tracks.h"
 
-const std::string DATA_FILE = "position_data.txt";
+const std::string DATA_FILE = "src/position_data.txt";
 
 struct TrackEntry {
     std::string track;

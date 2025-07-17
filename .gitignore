@@ -3,3 +3,8 @@ position_data.txt
 
 #ignore vscode
 .vscode/
+
+#ignore personal data
+mario_kart_tracker
+tracks_over_time/
+average_histograms/
